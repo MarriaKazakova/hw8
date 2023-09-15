@@ -28,7 +28,6 @@ class Program
         }
         int[,] product = new int[row1, colum2];
 
-        // Вычисление произведения матриц
         for (int i = 0; i < row1; i++)
         {
             for (int j = 0; j < colum2; j++)
